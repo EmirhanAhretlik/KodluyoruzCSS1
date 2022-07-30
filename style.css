@@ -1,0 +1,63 @@
+body {
+    background-image: url(images/cool-background.png);
+    background-repeat: repeat-y;
+    background-size: 1500px; }
+
+.merkez {
+        margin: auto;
+        width: 50%;
+        border: 3px solid #ffffff;
+        padding: 1px;
+ }
+
+ .merkez2 {
+    margin: auto;
+    border: 3px solid #000000;
+    padding: 1px;
+}
+/****************** FONT SIZE ****************/
+.fs20 {
+    font-size: 20px;
+}
+.fs30 {
+    font-size: 30px;
+}
+.fs50 {
+    font-size: 50px;
+}
+/****************** COLORS ****************/
+.c1 {
+    color: #FDFEFE;
+}
+
+.c2 {
+    color: #17202A;
+}
+
+.c3 {
+    color: #76D7C4;
+}
+
+.c4 {
+    color: #BA4A00;
+}
+
+.c5 {
+    color: #8E44AD ;
+}
+
+/****************** FONT FAMILYS ****************/
+
+.ff-roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.ff-kanit {
+    font-family: 'Kanit', sans-serif;
+}
+
+/****************** TEXT POSITIONS ****************/
+
+.text-center {
+    text-align: center;
+}
